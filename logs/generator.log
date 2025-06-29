@@ -1,0 +1,16 @@
+2025-06-20 00:08:56 | __main__ | INFO | Данные успешно обработаны и отправлены в таблицу!
+2025-06-20 00:13:50 | src.parser.stomatorg_parser | ERROR | StomatorgParser error: 401 Client Error: Unauthorized for url: https://stomatorg.ru/search?query=%D0%9D%D0%B0%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%20%D1%81%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9
+2025-06-20 00:13:53 | src.parser.stomatorg_parser | ERROR | StomatorgParser error: 401 Client Error: Unauthorized for url: https://stomatorg.ru/search?query=%D0%91%D0%BE%D1%80%20%D0%B0%D0%BB%D0%BC%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9
+2025-06-20 00:13:57 | src.parser.stomatorg_parser | ERROR | StomatorgParser error: 401 Client Error: Unauthorized for url: https://stomatorg.ru/search?query=%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%86%D0%B5%D0%BC%D0%B5%D0%BD%D1%82
+2025-06-20 00:14:04 | src.utils.google_sheets | INFO | Добавлено 3 строк в таблицу
+2025-06-20 00:14:04 | __main__ | INFO | Обработано 3 товаров
+2025-06-20 00:17:12 | src.parser.stomatorg_parser | ERROR | StomatorgParser error: 401 Client Error: Unauthorized for url: https://stomatorg.ru/search?query=%D0%9D%D0%B0%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%B8%D0%BA%20%D1%81%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9
+2025-06-20 00:17:18 | src.parser.stomatorg_parser | ERROR | StomatorgParser error: 401 Client Error: Unauthorized for url: https://stomatorg.ru/search?query=%D0%91%D0%BE%D1%80%20%D0%B0%D0%BB%D0%BC%D0%B0%D0%B7%D0%BD%D1%8B%D0%B9
+2025-06-20 00:17:23 | src.parser.stomatorg_parser | ERROR | StomatorgParser error: 401 Client Error: Unauthorized for url: https://stomatorg.ru/search?query=%D0%A1%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D1%86%D0%B5%D0%BC%D0%B5%D0%BD%D1%82
+2025-06-20 00:17:28 | src.utils.google_sheets | INFO | Добавлено 3 строк в таблицу
+2025-06-20 00:17:28 | __main__ | INFO | Обработано 3 товаров
+2025-06-20 00:20:24 | __main__ | INFO | Начало парсинга каталогов конкурентов
+2025-06-20 00:20:25 | src.parser.eldent_parser | ERROR | Ошибка парсинга каталога: 404 Client Error: Not Found for url: https://el-dent.ru/catalog/stomatologicheskie-nakonechniki/
+2025-06-20 00:20:26 | src.parser.stomatorg_parser | ERROR | Ошибка парсинга каталога: 401 Client Error: Unauthorized for url: https://stomatorg.ru/catalog/bori/
+2025-06-20 00:20:26 | __main__ | INFO | Найдено 0 товаров для обработки
+2025-06-20 00:20:26 | __main__ | ERROR | Не найдено товаров для обработки
